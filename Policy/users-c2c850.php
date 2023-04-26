@@ -1,3 +1,3 @@
 <?php
     $users = array();
-    $salt = '$2y$10$4QeE4Amlqnyyt9gsPmpsg6$';
+    $salt = '$2y$10$lxIajvkh8sfcePvmag6fso$';
