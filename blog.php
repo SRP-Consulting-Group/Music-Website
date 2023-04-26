@@ -106,7 +106,7 @@ html{-webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale}#b{ba
 <meta name="msapplication-TileImage" content="images/mstile-144x144-275c4a.png">
 <link rel="manifest" href="manifest.json" crossOrigin="use-credentials">
 <meta name="theme-color" content="#ee1000">
-<link onload="this.media='all';this.onload=null;" rel="stylesheet" href="css/blog.072de5.css" media="print">
+<link onload="this.media='all';this.onload=null;" rel="stylesheet" href="css/blog.56cdc1.css" media="print">
 </head>
 <body id="b">
 <script>var p=document.createElement("P");p.innerHTML="&nbsp;",p.style.cssText="position:fixed;visible:hidden;font-size:100px;zoom:1",document.body.appendChild(p);var rsz=function(e){return function(){var r=Math.trunc(1e3/parseFloat(window.getComputedStyle(e).getPropertyValue("font-size")))/10,t=document.body;r!=t.style.getPropertyValue("--f")&&t.style.setProperty("--f",r)}}(p);if("ResizeObserver"in window){var ro=new ResizeObserver(rsz);ro.observe(p)}else if("requestAnimationFrame"in window){var raf=function(){rsz(),requestAnimationFrame(raf)};requestAnimationFrame(raf)}else setInterval(rsz,100);</script>
@@ -564,7 +564,7 @@ html{-webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale}#b{ba
 </div>
 <div class="c67">
 </div>
-<script>dpth="/";!function(){for(var e=["js/jquery.d26858.js","js/jqueryui.d26858.js","js/menu.d26858.js","js/menu-dropdown-animations.d26858.js","js/menu-dropdown.072de5.js","js/blog.072de5.js"],n={},s=-1,t=function(t){var o=new XMLHttpRequest;o.open("GET",e[t],!0),o.onload=function(){for(n[t]=o.responseText;s<6&&void 0!==n[s+1];){s++;var e=document.createElement("script");e.textContent=n[s],document.body.appendChild(e)}},o.send()},o=0;o<6;o++)t(o)}();
+<script>dpth="/";!function(){for(var e=["js/jquery.d26858.js","js/jqueryui.d26858.js","js/menu.d26858.js","js/menu-dropdown-animations.d26858.js","js/menu-dropdown.56cdc1.js","js/blog.56cdc1.js"],n={},s=-1,t=function(t){var o=new XMLHttpRequest;o.open("GET",e[t],!0),o.onload=function(){for(n[t]=o.responseText;s<6&&void 0!==n[s+1];){s++;var e=document.createElement("script");e.textContent=n[s],document.body.appendChild(e)}},o.send()},o=0;o<6;o++)t(o)}();
 </script>
 </body>
 </html>
